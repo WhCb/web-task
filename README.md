@@ -2,7 +2,7 @@
 
 Simple To Do List using
 
-  css : sass portu
+  	css : sass portu
 
 	grunt & plugins : npm
 
@@ -12,5 +12,6 @@ Simple To Do List using
 
 	custom javascript codes + jquery = bundle via module.export & browserify	
 
-To Setup clone and  npm install && grunt 
-  output.js & output.css : @ web/js & web/css js 
+To Setup clone/download and  npm install && grunt 
+  
+  	output.js & output.css : @ web/js & web/css js 
