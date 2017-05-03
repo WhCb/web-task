@@ -1,0 +1,16 @@
+# web-task
+
+Simple To Do List using
+
+  css : sass portu
+
+	grunt & plugins : npm
+
+	grunt-uglify & grunt-cssmin
+
+	jquery : bower
+
+	custom javascript codes + jquery = bundle via module.export & browserify	
+
+To Setup clone and  npm install && grunt 
+  output.js & output.css : @ web/js & web/css js 
