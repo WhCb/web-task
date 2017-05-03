@@ -2,7 +2,7 @@
 
 Simple To Do List using
 
-  	css : sass portu
+  	css : sass port
 
 	grunt & plugins : npm
 
